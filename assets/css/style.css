@@ -476,7 +476,6 @@ html, body {
   .webview .intro .container p {
     font-size: 1.2rem;
   }
-
   .webview .sobre .container .row {
     display: grid;
     grid-template-columns: repeat(2, 50%);
@@ -496,12 +495,10 @@ html, body {
   .webview .sobre .container .row .c-descricao .habilidades .h-item .h-c-porcentagem .h-porcentagem-geral span {
     font-size: 1.2rem;
   }
-
   .webview .servicos .container .s-carrousel {
     margin-bottom: 40px;
     height: 400px;
   }
-
   .webview .portfolios .container .p-title {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -532,7 +529,6 @@ html, body {
     display: block;
     color: #FFFFFF;
   }
-
   .webview .contato .container .title {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -567,7 +563,6 @@ html, body {
     border-radius: 6px;
     border: 1px solid #29AE81;
   }
-
   .webview .sobre .container {
     width: 90%;
     margin: auto;
@@ -611,7 +606,6 @@ html, body {
   .webview .sobre .container .row .c-descricao .habilidades .h-item .h-c-porcentagem .h-porcentagem-geral span {
     font-size: 1.2rem;
   }
-
   .webview .servicos .container {
     width: 90%;
     margin: auto;
@@ -628,7 +622,6 @@ html, body {
     margin: auto;
     margin-bottom: 40px;
   }
-
   .webview .portfolios {
     min-height: auto;
   }
@@ -669,7 +662,6 @@ html, body {
     display: block;
     color: #FFFFFF;
   }
-
   .webview .contato {
     margin-bottom: 50px;
   }
@@ -693,7 +685,7 @@ html, body {
     padding: 5px;
   }
 }
-.webview .container-whatsapp {
+.webview .container-linkdln {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -705,7 +697,7 @@ html, body {
   min-height: 40px;
   z-index: 9999;
 }
-.webview .container-whatsapp .btn-whatsapp {
+.webview .container-linkdln .btn-linkdln {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -718,11 +710,11 @@ html, body {
   text-decoration: none;
   background-color: #29AE81;
 }
-.webview .container-whatsapp .btn-whatsapp i {
+.webview .container-linkdln .btn-linkdln i {
   font-size: 2rem;
   color: #FFFFFF;
 }
-.webview .container-whatsapp .btn-whatsapp:hover {
+.webview .container-linkdln .btn-linkdln:hover {
   background-color: #1E8865;
   border: 2px solid #FFFFFF;
 }

@@ -89,7 +89,7 @@ html, body {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-color: #29AE81;
+  background-color: #6032dd;
   color: #FFFFFF;
 }
 .webview .intro .container h1 {
@@ -206,7 +206,7 @@ html, body {
 
 .webview .servicos {
   width: 100%;
-  background-color: #29AE81;
+  background-color: #6032dd;
   color: #FFFFFF;
 }
 .webview .servicos .container {
@@ -240,7 +240,7 @@ html, body {
 .webview .servicos .container .s-carrousel .s-carrousel-container .s-carrousel-item {
   min-height: 260px;
   background-color: #FFFFFF;
-  color: #29AE81;
+  color: #6032dd;
 }
 .webview .servicos .container .s-carrousel .s-carrousel-container .s-carrousel-item .title {
   width: 100%;
@@ -304,7 +304,7 @@ html, body {
   font-weight: 500;
   font-size: 1.6rem;
   font-weight: bold;
-  color: #29AE81;
+  color: #6032dd;
 }
 .webview .portfolios .container .p-projetos {
   width: 100%;
@@ -331,7 +331,7 @@ html, body {
   display: flex;
   width: 100%;
   height: 50px;
-  background-color: #29AE81;
+  background-color: #6032dd;
   bottom: 0;
   left: 0;
   z-index: 9999;
@@ -381,7 +381,7 @@ html, body {
   font-weight: 500;
   font-size: 1.6rem;
   font-weight: bold;
-  color: #29AE81;
+  color: #6032dd;
 }
 .webview .contato .container .formulario {
   width: 100%;
@@ -400,7 +400,7 @@ html, body {
   font-family: "Ruda", sans-serif;
   font-weight: 400;
   font-weight: bold;
-  color: #29AE81;
+  color: #6032dd;
 }
 .webview .contato .container .formulario form .form-group .controls input {
   font-family: "Ruda", sans-serif;
@@ -408,14 +408,14 @@ html, body {
   width: 100%;
   height: 30px;
   padding: 10px;
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
 }
 .webview .contato .container .formulario form .form-group .controls input:active {
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
   border-radius: 2px;
 }
 .webview .contato .container .formulario form .form-group .controls input:focus {
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
   border-radius: 2px;
 }
 .webview .contato .container .formulario form .form-group .controls textarea {
@@ -424,15 +424,15 @@ html, body {
   width: 100%;
   height: 180px;
   padding: 10px;
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
   outline: none;
 }
 .webview .contato .container .formulario form .form-group .controls textarea:active {
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
   border-radius: 2px;
 }
 .webview .contato .container .formulario form .form-group .controls textarea:focus {
-  border: 1px solid #29AE81;
+  border: 1px solid #6032dd;
   border-radius: 2px;
 }
 .webview .contato .container .formulario form .form-group .btn-form-send {
@@ -442,16 +442,16 @@ html, body {
   width: 140px;
   height: 40px;
   border: none;
-  background-color: #29AE81;
+  background-color: ;
   color: #FFFFFF;
   border-radius: 2px;
   cursor: pointer;
 }
 .webview .contato .container .formulario form .form-group .btn-form-send:hover {
-  background-color: #29AE81;
+  background-color: #6032dd;
 }
 .webview .contato .container .formulario form .form-group .btn-form-send:active {
-  background-color: #29AE81;
+  background-color: #6032dd;
 }
 
 .webview footer {
@@ -461,7 +461,7 @@ html, body {
   align-items: center;
   width: 100%;
   height: 50px;
-  background-color: #29AE81;
+  background-color: #6032dd;
 }
 .webview footer span {
   font-family: "Ruda", sans-serif;
@@ -520,7 +520,7 @@ html, body {
     display: flex;
     width: 100%;
     height: 50px;
-    background-color: #29AE81;
+    background-color: #6032dd;
     bottom: 0;
     left: 0;
     z-index: 9999;
@@ -559,9 +559,9 @@ html, body {
     cursor: pointer;
   }
   .webview .intro .container .m-auto-btn .btn-portfolio:hover {
-    background-color: #29AE81;
+    background-color: #6032dd;
     border-radius: 6px;
-    border: 1px solid #29AE81;
+    border: 1px solid #6032dd;
   }
   .webview .sobre .container {
     width: 90%;
@@ -653,7 +653,7 @@ html, body {
     display: flex;
     width: 100%;
     height: 50px;
-    background-color: #29AE81;
+    background-color: #6032dd;
     bottom: 0;
     left: 0;
     z-index: 9999;
@@ -664,6 +664,7 @@ html, body {
   }
   .webview .contato {
     margin-bottom: 50px;
+    
   }
   .webview .contato .container {
     width: 90%;
@@ -680,6 +681,7 @@ html, body {
     display: flex;
     flex-direction: row;
     margin-bottom: 10px;
+    
   }
   .webview .contato .container .formulario form .form-group .controls {
     padding: 5px;
@@ -708,14 +710,14 @@ html, body {
   border: none;
   cursor: pointer;
   text-decoration: none;
-  background-color: #29AE81;
+  background-color: #4284ff;
 }
 .webview .container-linkdln .btn-linkdln i {
   font-size: 2rem;
   color: #FFFFFF;
 }
 .webview .container-linkdln .btn-linkdln:hover {
-  background-color: #1E8865;
+  background-color: #0742b1;
   border: 2px solid #FFFFFF;
 }
 
